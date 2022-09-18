@@ -1,2 +1,2 @@
 # FirstApp
-This is a simple multipication aoo with the first project on Google Africa Associate Android Developer Program 
+This is a simple multipication app with the first project on Google Africa Associate Android Developer Program 
